@@ -1,0 +1,40 @@
+#topr{
+    text-align: right;
+    padding: 10px;
+}
+.google{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 272px;
+    height: 92px;
+    padding-top: 100px;
+}
+.search input{
+    width: 355px;
+    height: 30px;
+    border-radius: 25px;
+    border: 2px solid grey;
+    padding: 20px;
+    outline: none;
+}
+.search{
+    text-align: center;
+}
+.button{
+    height: 30px;
+    border-radius: 5px;
+    background-color: lightgrey;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 15px;
+    text-align: center;
+    transition-duration: 0.3s;
+    float: left;
+    align-items: center;
+}
+.button:hover{
+    background-color: grey;
+    border: 1px solid black;
+}
